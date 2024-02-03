@@ -13,10 +13,6 @@ I'm Manoj Biswal, a passionate developer with expertise in the following technol
 
 I enjoy building scalable and efficient web applications.
 
-![Visitor Count](https://profile-counter.glitch.me/Manj-2343/count.svg)
-
-
-
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
