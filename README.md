@@ -1,10 +1,17 @@
-### Hi Developers 👋
+## 👋 Hello!
 
+I'm [Your Name], a passionate developer with expertise in the following technologies:
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB) 
+- **JavaScript**
+- **React** and **Redux**
+- **GraphQL**
+- **Node.js** and **Express**
+- **MongoDB**
+- **Material-UI**
+- **Ant Design (antd)**
+- **Bootstrap**
 
+I enjoy building scalable and efficient web applications.
 
 ![Visitor Count](https://profile-counter.glitch.me/Manj-2343/count.svg)
 
