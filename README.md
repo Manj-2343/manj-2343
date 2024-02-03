@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-I'm [Your Name], a passionate developer with expertise in the following technologies:
+I'm Manoj Biswal, a passionate developer with expertise in the following technologies:
 
 - **JavaScript**
 - **React** and **Redux**
