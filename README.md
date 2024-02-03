@@ -15,12 +15,7 @@ I enjoy building scalable and efficient web applications.
 
 ![Visitor Count](https://profile-counter.glitch.me/Manj-2343/count.svg)
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Manj-2343&column=7"/>
-  </a>
-</div>
+
 
 <details open="">
 <summary>
