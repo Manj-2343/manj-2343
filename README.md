@@ -4,7 +4,6 @@ I'm Manoj Biswal, a passionate developer with expertise in the following technol
 
 - **JavaScript**
 - **React** and **Redux**
-- **GraphQL**
 - **Node.js** and **Express**
 - **MongoDB**
 - **Material-UI**
