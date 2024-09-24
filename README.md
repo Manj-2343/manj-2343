@@ -20,7 +20,7 @@ I'm a passionate full-stack developer specializing in modern web technologies. M
 
 - [Movie Explorer](https://github.com/Manj-2343/moveiweb): React-based movie browsing application with dynamic search, filtering, and integration with popular movie APIs.
 
-- [VirtuaIr](https://github.com/Manj-2343/task-master): A responsive task management web app using React and Node.js, with real-time updates and user collaboration features.
+- [VirtuaIr](https://github.com/Manj-2343/VirtualR): A responsive task management web app using React and Node.js, with real-time updates and user collaboration features.
 
 ## 📈 GitHub Stats
 
