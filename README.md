@@ -16,9 +16,11 @@ I'm a passionate full-stack developer specializing in modern web technologies. M
 
 ## 🌟 Featured Projects
 
-- [Project 1](https://github.com/Manj-2343/project1): Brief description
-- [Project 2](https://github.com/Manj-2343/project2): Brief description
-- [Project 3](https://github.com/Manj-2343/project3): Brief description
+- [Nutana Emporium](https://github.com/Manj-2343/nutana-emporium): A full-stack e-commerce platform built with MERN stack, featuring user authentication, product management, and secure checkout.
+
+- [Movie Explorer](https://github.com/Manj-2343/movie-explorer): React-based movie browsing application with dynamic search, filtering, and integration with popular movie APIs.
+
+- [Task Master](https://github.com/Manj-2343/task-master): A responsive task management web app using React and Node.js, with real-time updates and user collaboration features.
 
 ## 📈 GitHub Stats
 
