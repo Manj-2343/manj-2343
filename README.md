@@ -1,28 +1,43 @@
-## 👋 Hello!
+# 👋 Hello, I'm Manoj Biswal!
 
-I'm Manoj Biswal, a passionate developer with expertise in the following technologies:
+I'm a passionate full-stack developer specializing in modern web technologies. My expertise lies in building scalable and efficient web applications using the MERN stack.
 
-- **JavaScript**
-- **React** and **Redux**
-- **Node.js** and **Express**
-- **MongoDB**
-- **Material-UI**
-- **Ant Design (antd)**
-- **Bootstrap**
+## 🚀 Tech Stack
 
-I enjoy building scalable and efficient web applications.
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
+## 🌟 Featured Projects
+
+- [Project 1](https://github.com/Manj-2343/project1): Brief description
+- [Project 2](https://github.com/Manj-2343/project2): Brief description
+- [Project 3](https://github.com/Manj-2343/project3): Brief description
+
+## 📈 GitHub Stats
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manj-2343&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manj-2343&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manj-2343&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true" alt="Manoj's GitHub Stats" />
 </p>
-</details>
-<br/>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manj-2343&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true" alt="Manoj's Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Manj-2343&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about tech!
