@@ -25,6 +25,10 @@ I'm a passionate full-stack developer specializing in modern web technologies. M
 - [RentalIo](https://github.com/Manj-2343/Home_Rental_Website): Designed and developed a modern, user-friendly rental website using React. The platform offers an intuitive interface for property listings, advanced search functionality, and seamless booking processes.
 
 - [PortFolio](https://github.com/Manj-2343/React-Portfolio-2): A modern, responsive portfolio website built with React, showcasing an intuitive interface for property listings, advanced search functionality, and seamless booking processes.
+  
+- [FoodOrderingApp](https://github.com/Manj-2343/react-food-ordering-app): A user-friendly food ordering app streamlining the process from menu browsing to delivery. Offers real-time order tracking, customizable menu items, and secure payment integration.
+  
+- [MyBlogWeb](https://github.com/Manj-2343/Mern-Blog): A dynamic, responsive blog platform built with modern web technologies. Features intuitive content management, user authentication, and interactive commenting system.
 
 
 
