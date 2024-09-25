@@ -24,7 +24,7 @@ I'm a passionate full-stack developer specializing in modern web technologies. M
 
 - [Movie Explorer](https://github.com/Manj-2343/Home_Rental_Website): Designed and developed a modern, user-friendly rental website using React. The platform offers an intuitive interface for property listings, advanced search functionality, and seamless booking processes.
 
-[PortFolio](https://github.com/Manj-2343/React-Portfolio-2): A modern, responsive portfolio website built with React, showcasing an intuitive interface for property listings, advanced search functionality, and seamless booking processes.
+- [PortFolio](https://github.com/Manj-2343/React-Portfolio-2): A modern, responsive portfolio website built with React, showcasing an intuitive interface for property listings, advanced search functionality, and seamless booking processes.
 
 
 
