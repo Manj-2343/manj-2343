@@ -23,8 +23,6 @@ I'm a passionate full-stack developer specializing in modern web technologies. M
 - [VirtuaIr](https://github.com/Manj-2343/VirtualR): Built the VirtualIR app with React, an innovative platform that simulates real-world scenarios in an interactive virtual environment. The app combines advanced features with a user-friendly interface, allowing users to explore and interact with various virtual realities effectively.
 
 - [RentalIo](https://github.com/Manj-2343/Home_Rental_Website): Designed and developed a modern, user-friendly rental website using React. The platform offers an intuitive interface for property listings, advanced search functionality, and seamless booking processes.
-
-- [PortFolio](https://github.com/Manj-2343/React-Portfolio-2): A modern, responsive portfolio website built with React, showcasing an intuitive interface for property listings, advanced search functionality, and seamless booking processes.
   
 - [FoodOrderingApp](https://github.com/Manj-2343/react-food-ordering-app): A user-friendly food ordering app streamlining the process from menu browsing to delivery. Offers real-time order tracking, customizable menu items, and secure payment integration.
   
